@@ -11,6 +11,6 @@ def guess (y):
             print('tO hIgh')
         
 
-    print('YOu did it, Congrats')
+    print('You did it, Congrats')
  
 guess(10)
